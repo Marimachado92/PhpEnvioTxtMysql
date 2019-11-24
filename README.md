@@ -1,2 +1,2 @@
 # PhpEnvioTxtMysql
-Código que envia dados do txt para o banco de dados mysql
+Código que envia dados do txt (gtfs-Porto Alegre) para o banco de dados mysql
